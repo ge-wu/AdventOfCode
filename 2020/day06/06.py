@@ -7,3 +7,4 @@ with open("06.input") as file:
     for line in file:
         line = line.strip()
         print(list(line))
+
