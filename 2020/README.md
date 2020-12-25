@@ -1,18 +1,18 @@
 # 2020
 
-| Title                                                                         | Part 1 topic              | Part 2 topic                              | 
-| :-------------                                                                |:-------------:            | :-----:                                   | 
-| [Day 1: Report Repair](https://adventofcode.com/2020/day/1)                   | Brute force               | Brute force                               | 
-| [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)             | Implementation            | Implementation                               | 
-| [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)             | Modular                   | Modular                               | 
-| [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)             | Hash                      | Implementation                               | 
-| [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)                 | Binary search (?)         | Brute force (result from part 1)          |
-| [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)                | DFS                       | DFS                                       | 
-| [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)                | Implementation            | Brute force                                       | 
-| [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)                 | Implementation            | Dynamic programming                               | 
-| [Day 14: Docking Data](https://adventofcode.com/2020/day/14)                  | Bit manipulation          | Implementation                               | 
-| [Day 15: Reambunctious Recitation](https://adventofcode.com/2020/day/15)      | Implementation            | Implementation                               | 
-| [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)                  | Implementation            | Implementation                               | 
-| [Day 18: Operation Order](https://adventofcode.com/2020/day/18)               | Stack                     | Stack                               | 
-| [Day 24: Lobby Layout](https://adventofcode.com/2020/day/24)                  | [Geometry](https://www.redblobgames.com/grids/hexagons/)                     | Implementation                               | 
-| [Day 25: Combo Breaker](https://adventofcode.com/2020/day/25)                  | Cryptography - [Diffie-Hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)                 |      ∅                          |
+| Code link                                                                          | Part 1 topic                                                                                              | Part 2 topic                              | 
+| :-------------                                                                |:-------------:                                                                                            | :-----:                                   | 
+| [Day 1: Report Repair](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day01/01.py)                      | Brute force                                                                                               | Brute force                               | 
+| [Day 2: Password Philosophy](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day02/02.py)                | Implementation                                                                                            | Implementation                            | 
+| [Day 3: Toboggan Trajectory](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day03/03.py)                | Modular                                                                                                   | Modular                                   | 
+| [Day 4: Passport Processing](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day04/04.py)                | Hash                                                                                                      | Implementation                            | 
+| [Day 5: Binary Boarding](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day05/05.py)                    | Binary search (?)                                                                                         | Brute force (result from part 1)          |
+| [Day 7: Handy Haversacks](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day06/07.py)                   | DFS                                                                                                       | DFS                                       | 
+| [Day 8: Handheld Halting](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day08/08.py)                   | Implementation                                                                                            | Brute force                               | 
+| [Day 10: Adapter Array](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day10/10.py)                     | Implementation                                                                                            | Dynamic programming                       | 
+| [Day 14: Docking Data](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day14/14.py)                      | Bit manipulation                                                                                          | Implementation                            | 
+| [Day 15: Reambunctious Recitation](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day15/15.py)          | Implementation                                                                                            | Implementation                            | 
+| [Day 17: Conway Cubes](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day17/17.py)                      | Implementation                                                                                            | Implementation                            | 
+| [Day 18: Operation Order](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day18/18.py)                   | Stack                                                                                                     | Stack                                     | 
+| [Day 24: Lobby Layout](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day24/24.py)                      | [Geometry](https://www.redblobgames.com/grids/hexagons/)                                                  | Implementation                            | 
+| [Day 25: Combo Breaker](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day25/25.py)                     | [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)        |      ∅                                    |
