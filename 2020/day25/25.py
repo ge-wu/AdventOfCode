@@ -9,5 +9,5 @@ b = 0
 while pow(g, b, p) != B:
     b += 1
 
-print(pow(A, b, p))
+print("Part 1:", pow(A, b, p))
 
