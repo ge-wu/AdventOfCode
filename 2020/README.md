@@ -1,4 +1,4 @@
-# 2020
+# Advent of Code 2020
 
 | Code link                                                                          | Part 1 topic                                                                                              | Part 2 topic                              | 
 | :-------------                                                                |:-------------:                                                                                            | :-----:                                   | 
@@ -9,6 +9,7 @@
 | [Day 5: Binary Boarding](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day05/05.py)                    | Binary search (?)                                                                                         | Brute force (result from part 1)          |
 | [Day 7: Handy Haversacks](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day06/07.py)                   | DFS                                                                                                       | DFS                                       | 
 | [Day 8: Handheld Halting](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day08/08.py)                   | Implementation                                                                                            | Brute force                               | 
+| [Day 9: Encoding Error](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day09/09.py)                     | Brute force                                                                                               | Queue                               | 
 | [Day 10: Adapter Array](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day10/10.py)                     | Implementation                                                                                            | Dynamic programming                       | 
 | [Day 14: Docking Data](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day14/14.py)                      | Bit manipulation                                                                                          | Implementation                            | 
 | [Day 15: Reambunctious Recitation](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day15/15.py)          | Implementation                                                                                            | Implementation                            | 
