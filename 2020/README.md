@@ -5,6 +5,7 @@ I am too lazy to write comment and explanation, but I hope the topic sections in
 table can give you some ideas about the code. 
 
 
+
 | Puzzle                                                                      | Part 1 topic                                                                                              | Part 2 topic                                                                                 | Solution                                                                                   | 
 |:---                                                                          |:-------------:                                                                                            | :-----:                                                                                     | :---:                                                                                      | 
 |[Day 1: Report Repair](https://adventofcode.com/2020/day/1)                 | Brute force                                                                                               | Brute force                                                                                   | [Python 3](https://github.com/ge-wu/AdventOfCode/blob/main/2020/day01/01.py)                 | 
